@@ -1,0 +1,16 @@
+{
+    "name": "ernis/bankas",
+    "description": "Objektyvus Bankas",
+    "type": "no",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ernio\\Bankas\\": "app/",
+            "Ernio\\Bankas\\Login\\": "app/login",
+            "Ernio\\Bankas\\Controllers\\" : "app/controllers",
+            "App\\DB\\" : "app/"
+            
+        }
+    }
+}

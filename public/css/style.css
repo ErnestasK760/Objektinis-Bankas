@@ -1,0 +1,81 @@
+
+.logout-btn {
+    border: none;
+}
+
+/* -------------------------newuser------------------------------------ */
+.register-newuser {
+    width:90%;
+  }
+  /*---------------------accountlist-----------------------------------*/
+  .sastable-accountlist {
+      width:90%;
+      margin:auto;
+    }
+    .h2-caption-accountlist {
+      margin-left: 10%;
+      padding-top:2%;
+    }
+    .moneytext-accountlist {
+      display:inline-block;
+    }
+    .btndiv-accountlist {
+      display:flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+  
+  
+    
+  /*----------------------fundcontrol--------------------------------- */
+    .sastable-fundcontrol {
+      width:90%;
+      margin:auto;
+    }
+    .h2-caption-fundcontrol {
+      margin-left: 10%;
+      padding-top:2%;
+    }
+    .moneytext-fundcontrol {
+      display:inline-block;
+    }
+    .btndiv-fundcontrol {
+      display:inline-flex;
+      justify-content: flex-end;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+    .moneyinput-fundcontrol {
+      width: 120px;
+    }
+    /*------------------------login------------------------------- */
+    .login-login{
+      width:1000px;
+    }
+    .btn-login {
+      margin-left: 15rem;
+      justify-self: flex-end;
+    }
+    .login-btndiv {
+      display: flex;
+      flex: auto;
+    }
+    /* --------------allaccountlist--------------------- */
+    .btndiv-allaccountlist {
+      display:inline-flex;
+      justify-content: flex-end;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+    .input-allaccountlist{
+      width:100px;
+      margin-bottom: 5px;
+    }
+    .moneytext-allaccountlist {
+      overflow: hidden;
+      white-space: nowrap;
+    }
+  /*-------------------navbar------------------------------ */
+    .navbar-text {
+      font-weight:600;
+    }
